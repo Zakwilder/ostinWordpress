@@ -608,9 +608,16 @@ class Get_links {
 }
 
 function my_avatars( $avatar_defaults ) {
-    $myavatar1 = get_bloginfo('template_directory') . '/images/default.png';
+    $myavatar1 = get_bloginfo('url') . '/avatars/default.png';
     $avatar_defaults[$myavatar1] = 'Аватар по умолчанию';
     return $avatar_defaults;
 }
 add_filter( 'avatar_defaults', 'my_avatars' );
+
+function __default_local_avatar()
+{
+    // this assumes default_avatar.png is in wp-content/themes/active-theme/images
+    return get_bloginfo('url') . '/avatars/default.png';
+}
+add_filter( 'pre_option_avatar_default', '__default_local_avatar' );
 ?>

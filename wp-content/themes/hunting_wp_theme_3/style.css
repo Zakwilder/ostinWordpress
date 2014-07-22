@@ -1472,6 +1472,13 @@ input, select
 	background: none;
 }
 
+.commentlist li
+{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 10px;
+}
+
 .commentlist li li
 {
 	margin-left:30px;
@@ -1479,7 +1486,7 @@ input, select
 
 .commentlist li .avatar
 {
-	float: right;
+	/*float: right;*/
 	border: 1px solid #eee;
 	padding: 2px;
 	margin:1px;

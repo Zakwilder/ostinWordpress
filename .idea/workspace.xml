@@ -4,7 +4,9 @@
     <list default="true" id="8fbcba16-754a-44df-a5f2-6919e60e54eb" name="Default" comment="" />
     <ignored path="ostin.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/a.dummy" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406034333363" ignored="false" />
+    <file path="/a.dummy" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406039908650" ignored="false" />
+    <file path="/style.css" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406036236585" ignored="false" />
+    <file path="/avatars.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406037147837" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,57 +26,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-includes/functions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="2067.8076">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kama_easy_admin.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/kama-easy-admin/kama_easy_admin.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="72" selection-start="2613" selection-end="2613" vertical-scroll-proportion="-11.307693">
-              <folding>
-                <marker date="1406032393901" expanded="true" signature="5517:5749" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="functions.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="286" column="26" selection-start="9594" selection-end="9594" vertical-scroll-proportion="-7.230769">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pluggable.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-includes/pluggable.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2030" column="16" selection-start="65938" selection-end="65938" vertical-scroll-proportion="15.653846">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1606" column="1" selection-start="24253" selection-end="24253" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="comments.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/comments.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.87529975">
+            <state line="619" column="50" selection-start="21074" selection-end="21074" vertical-scroll-proportion="0.8161058">
               <folding />
             </state>
           </provider>
@@ -92,7 +47,6 @@
       <list>
         <option value="$PROJECT_DIR$/wp-content/themes/doggy-love/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/doggy-love/functions.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/404.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/archive.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/archives.php" />
@@ -101,6 +55,8 @@
         <option value="$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/single.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/kama-easy-admin/kama_easy_admin.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/add-local-avatar/avatars.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/functions.php" />
       </list>
     </option>
   </component>
@@ -257,10 +213,10 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32887402" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25506938" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25506938" sideWeight="0.67112595" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -335,80 +291,37 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/links.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="8" selection-start="851" selection-end="851" vertical-scroll-proportion="-15.653846">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="34" selection-start="2486" selection-end="2486" vertical-scroll-proportion="-15.153846">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/search.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="143" column="8" selection-start="4209" selection-end="4209" vertical-scroll-proportion="-15.153846">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="6" selection-start="571" selection-end="571" vertical-scroll-proportion="0.38729018">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-cron.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.48920864">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/ru_RU.mo">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="31" selection-start="7374" selection-end="7374" vertical-scroll-proportion="0.63255817">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.0791367">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/ReadMe.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/kama-easy-admin/admin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.9556355">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="2067.8076">
-          <folding />
+          <folding>
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -416,15 +329,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="75" column="72" selection-start="2613" selection-end="2613" vertical-scroll-proportion="-11.307693">
           <folding>
-            <marker date="1406032393901" expanded="true" signature="5517:5749" placeholder="..." />
+            <marker date="1406032393901" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1406032393901" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1406032393901" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1406032393901" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1406032393901" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1406032393901" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1406032393901" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1406032393901" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1406032393901" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1406032393901" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1406032393901" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="286" column="26" selection-start="9594" selection-end="9594" vertical-scroll-proportion="-7.230769">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -437,14 +353,104 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1606" column="1" selection-start="24253" selection-end="24253" vertical-scroll-proportion="0.0">
+        <state line="1488" column="21" selection-start="22885" selection-end="22885" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/load-styles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="9" selection-start="721" selection-end="721" vertical-scroll-proportion="0.34319526">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/load-scripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="9" selection-start="766" selection-end="766" vertical-scroll-proportion="0.34319526">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/setup-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="203" column="17" selection-start="8663" selection-end="8663" vertical-scroll-proportion="0.34375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-comments-post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/doggy-love/comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="8" selection-start="536" selection-end="536" vertical-scroll-proportion="-7.1923075">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/comments.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.87529975">
+        <state line="72" column="10" selection-start="1583" selection-end="1583" vertical-scroll-proportion="-7.1923075">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/legacy.comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="24" selection-start="1127" selection-end="1127" vertical-scroll-proportion="-16.346153">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/add-local-avatar/avatars.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1315" column="9" selection-start="55615" selection-end="55615" vertical-scroll-proportion="55.692307">
+          <folding>
+            <marker date="1406037232995" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1406037232995" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1406037232995" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1406037232995" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1406037232995" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1406037232995" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1406037232995" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1406037232995" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1406037232995" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/link-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2429" column="9" selection-start="71818" selection-end="71818" vertical-scroll-proportion="0.33293268">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="627" column="28" selection-start="19752" selection-end="19752" vertical-scroll-proportion="0.3028846">
+          <folding>
+            <marker date="1397536936000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1397536936000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/credits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="149" column="37" selection-start="5501" selection-end="5501" vertical-scroll-proportion="-5.230769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="619" column="50" selection-start="21074" selection-end="21074" vertical-scroll-proportion="0.8161058">
           <folding />
         </state>
       </provider>
