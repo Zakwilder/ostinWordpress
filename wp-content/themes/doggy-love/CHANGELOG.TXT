@@ -1,0 +1,6 @@
+http://www.templatelite.com/doggy-love-free-wordpress-theme/
+
+VERSION DATE        TYPE    CHANGES
++-------+-----------+-------+----------------------------------------------------------------------------------+
+1.00    2009/05/30  New     New release.
+
