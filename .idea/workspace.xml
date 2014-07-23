@@ -4,9 +4,18 @@
     <list default="true" id="8fbcba16-754a-44df-a5f2-6919e60e54eb" name="Default" comment="" />
     <ignored path="ostin.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/a.dummy" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406039908650" ignored="false" />
-    <file path="/style.css" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406036236585" ignored="false" />
+    <file path="/a.dummy" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406111155917" ignored="false" />
+    <file path="/style.css" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406107918875" ignored="false" />
     <file path="/avatars.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406037147837" ignored="false" />
+    <file path="/functions.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406107596410" ignored="false" />
+    <file path="/theme-my-login.pot" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406110432644" ignored="false" />
+    <file path="/class-theme-my-login-template.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406110691400" ignored="false" />
+    <file path="C:/development-Health/workspace/www/.gitignore" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406111600814" ignored="false" />
+    <file path="/.gitignore" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406111594020" ignored="false" />
+    <file path="C:/development-Health/workspace/www/public/index.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406112221272" ignored="false" />
+    <file path="/index.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406112207673" ignored="false" />
+    <file path="/index-local.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406112242200" ignored="false" />
+    <file path="C:/development-Health/workspace/www/public/index-local.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406112253628" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,11 +35,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="functions.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/functions.php">
+      <file leaf-file-name="avatars.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/add-local-avatar/avatars.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="619" column="50" selection-start="21074" selection-end="21074" vertical-scroll-proportion="0.8161058">
+            <state line="155" column="12" selection-start="5803" selection-end="5880" vertical-scroll-proportion="-9.153846">
+              <folding>
+                <marker date="1406037232995" expanded="false" signature="13241:13260" placeholder="..." />
+                <marker date="1406037232995" expanded="false" signature="16015:16034" placeholder="..." />
+                <marker date="1406037232995" expanded="false" signature="36367:36380" placeholder="..." />
+                <marker date="1406037232995" expanded="false" signature="39442:39571" placeholder="..." />
+                <marker date="1406037232995" expanded="false" signature="42817:42845" placeholder="..." />
+                <marker date="1406037232995" expanded="false" signature="43438:43464" placeholder="..." />
+                <marker date="1406037232995" expanded="false" signature="43511:43530" placeholder="..." />
+                <marker date="1406037232995" expanded="false" signature="46453:46464" placeholder="..." />
+                <marker date="1406037232995" expanded="false" signature="59937:59973" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-theme-my-login-template.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/theme-my-login/includes/class-theme-my-login-template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="149" column="64" selection-start="4084" selection-end="4098" vertical-scroll-proportion="0.50769234">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theme-my-login.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/theme-my-login/theme-my-login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="38" selection-start="388" selection-end="388" vertical-scroll-proportion="-1.3076923">
+              <folding>
+                <element signature="e#6#349#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,9 +93,13 @@
         <option value="$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/search.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/single.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/kama-easy-admin/kama_easy_admin.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/style.css" />
         <option value="$PROJECT_DIR$/wp-content/plugins/add-local-avatar/avatars.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/sidebar2.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/theme-my-login/language/theme-my-login.pot" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/theme-my-login/includes/class-theme-my-login-template.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/theme-my-login/theme-my-login.php" />
       </list>
     </option>
   </component>
@@ -165,6 +208,98 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ostin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ostin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ostin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ostin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme-my-login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ostin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ostin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme-my-login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="language" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ostin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ostin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme-my-login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -208,15 +343,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32887402" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25506938" sideWeight="0.67112595" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25773746" sideWeight="0.67112595" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -291,153 +426,10 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-includes/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="2067.8076">
-          <folding>
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1397434814000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/kama-easy-admin/kama_easy_admin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="72" selection-start="2613" selection-end="2613" vertical-scroll-proportion="-11.307693">
-          <folding>
-            <marker date="1406032393901" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1406032393901" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1406032393901" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1406032393901" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1406032393901" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1406032393901" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1406032393901" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1406032393901" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1406032393901" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1406032393901" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1406032393901" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/pluggable.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2030" column="16" selection-start="65938" selection-end="65938" vertical-scroll-proportion="15.653846">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1488" column="21" selection-start="22885" selection-end="22885" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-admin/load-styles.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="9" selection-start="721" selection-end="721" vertical-scroll-proportion="0.34319526">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-admin/load-scripts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="9" selection-start="766" selection-end="766" vertical-scroll-proportion="0.34319526">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-admin/setup-config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="203" column="17" selection-start="8663" selection-end="8663" vertical-scroll-proportion="0.34375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-comments-post.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/doggy-love/comments.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="8" selection-start="536" selection-end="536" vertical-scroll-proportion="-7.1923075">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/comments.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="10" selection-start="1583" selection-end="1583" vertical-scroll-proportion="-7.1923075">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/legacy.comments.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="24" selection-start="1127" selection-end="1127" vertical-scroll-proportion="-16.346153">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/add-local-avatar/avatars.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1315" column="9" selection-start="55615" selection-end="55615" vertical-scroll-proportion="55.692307">
-          <folding>
-            <marker date="1406037232995" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1406037232995" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1406037232995" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1406037232995" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1406037232995" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1406037232995" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1406037232995" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1406037232995" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1406037232995" expanded="false" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/link-template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2429" column="9" selection-start="71818" selection-end="71818" vertical-scroll-proportion="0.33293268">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="627" column="28" selection-start="19752" selection-end="19752" vertical-scroll-proportion="0.3028846">
-          <folding>
-            <marker date="1397536936000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1397536936000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -448,9 +440,112 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/legacy.comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="17" selection-start="1120" selection-end="1120" vertical-scroll-proportion="-12.423077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="619" column="50" selection-start="21074" selection-end="21074" vertical-scroll-proportion="0.8161058">
+        <state line="276" column="1" selection-start="9224" selection-end="9224" vertical-scroll-proportion="-5.191106">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1652" column="20" selection-start="24909" selection-end="24909" vertical-scroll-proportion="0.82433987">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/languages/ru_RU.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/theme-my-login/language/theme-my-login.pot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="411" column="28" selection-start="12004" selection-end="12004" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/sidebar2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="14" selection-start="911" selection-end="911" vertical-scroll-proportion="0.6035503">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/includes/plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="123" column="16" selection-start="4977" selection-end="4977" vertical-scroll-proportion="0.3482309">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="618" column="9" selection-start="20268" selection-end="20268" vertical-scroll-proportion="0.3482309">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="7" selection-start="2603" selection-end="2603" vertical-scroll-proportion="0.3490909">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/theme-my-login/theme-my-login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="38" selection-start="388" selection-end="388" vertical-scroll-proportion="-1.3076923">
+          <folding>
+            <element signature="e#6#349#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/theme-my-login/includes/class-theme-my-login-widget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.0444713">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="34" selection-start="1764" selection-end="1764" vertical-scroll-proportion="0.67427886">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/add-local-avatar/avatars.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="155" column="12" selection-start="5803" selection-end="5880" vertical-scroll-proportion="-9.153846">
+          <folding>
+            <marker date="1406037232995" expanded="false" signature="13241:13260" placeholder="..." />
+            <marker date="1406037232995" expanded="false" signature="16015:16034" placeholder="..." />
+            <marker date="1406037232995" expanded="false" signature="36367:36380" placeholder="..." />
+            <marker date="1406037232995" expanded="false" signature="39442:39571" placeholder="..." />
+            <marker date="1406037232995" expanded="false" signature="42817:42845" placeholder="..." />
+            <marker date="1406037232995" expanded="false" signature="43438:43464" placeholder="..." />
+            <marker date="1406037232995" expanded="false" signature="43511:43530" placeholder="..." />
+            <marker date="1406037232995" expanded="false" signature="46453:46464" placeholder="..." />
+            <marker date="1406037232995" expanded="false" signature="59937:59973" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/theme-my-login/includes/class-theme-my-login-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="149" column="64" selection-start="4084" selection-end="4098" vertical-scroll-proportion="0.50769234">
           <folding />
         </state>
       </provider>

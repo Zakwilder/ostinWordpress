@@ -9,7 +9,7 @@ Author URI: http://www.jfarthing.com
 Text Domain: theme-my-login
 Domain Path: /language/
 */
-
+load_plugin_textdomain('theme-my-login', false, dirname(plugin_basename(__FILE__)));
 // Allow custom functions file
 if ( file_exists( WP_PLUGIN_DIR . '/theme-my-login-custom.php' ) )
 	include_once( WP_PLUGIN_DIR . '/theme-my-login-custom.php' );

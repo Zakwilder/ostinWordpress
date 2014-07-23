@@ -768,8 +768,8 @@ a img
 
 .art-article img, img.art-article
 {
-	border: solid 1px #5A89E7;
-	margin: 1em;
+	/*border: solid 1px #5A89E7;
+	margin: 1em;*/
 }
 
 .art-metadata-icons img
@@ -939,6 +939,9 @@ body
   margin-top: 10px;
   margin-bottom: 10px;
   color: #000000;
+    padding: 10px;
+    background: #f3f4f5;
+    border-radius: 2px;
 }
 
 
@@ -1474,8 +1477,6 @@ input, select
 
 .commentlist li
 {
-    border: 1px solid black;
-    border-radius: 10px;
     margin: 10px;
 }
 
@@ -1488,8 +1489,8 @@ input, select
 {
 	/*float: right;*/
 	border: 1px solid #eee;
-	padding: 2px;
-	margin:1px;
+	/*padding: 2px;
+	margin:1px;*/
 	background: #fff;
 }
 
@@ -1611,4 +1612,51 @@ img.wp-smiley
 
 img {
     max-width: 100%;
+}
+
+.comment-aside
+{
+    float: left;
+}
+.user-avatar
+{
+    display: block;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.comment-container
+{
+    margin-left: 70px;
+    position: relative;
+}
+.comment-header
+{
+    height: 20px;
+    margin-bottom: 4px;
+    line-height: 20px;
+}
+.comment-date
+{
+    font-size: 11px;
+    color: #999;
+}
+.comment-content
+{
+    font-size: 12px;
+    word-wrap: break-word;
+    line-height: 1.6;
+}
+.comment-edit-link
+{
+    float: left;
+    margin-left: 5px;
+}
+.pull-left
+{
+    float: left;
+}
+.pull-right
+{
+    float: right !important;
 }
