@@ -101,40 +101,46 @@ class CommentFormQuicktags {
 			'tags' => array(
 				'strong' => array(
 					'display' => 'b',
-					'start' => '<strong>',
-					'end' => '</strong>',
+					'start' => '[b]',
+					'end' => '[/b]',
 					'access' => 'b'
 				),
 				'em' => array(
 					'display' => 'i',
-					'start' => '<em>',
-					'end' => '</em>',
+					'start' => '[i]',
+					'end' => '[/i]',
 					'access' => 'i'
 				),
-				'del' => array(
-					'display' => 'del',
-					'start' => '<del>',
-					'end' => '</del>',
+				'u' => array(
+					'display' => 'u',
+					'start' => '[u]',
+					'end' => '[/u]',
 					'access' => 'd'
 				),
 				'link' => array(
 					'display' => 'link',
-					'start' => '',
-					'end' => '</a>',
+					'start' => '[url=""]',
+					'end' => '[/url]',
 					'access' => 'a'
 				),
 				'block' => array(
 					'display' => 'b-quote',
-					'start' => '<blockquote>',
-					'end' => '</blockquote>',
+					'start' => '[quote]',
+					'end' => '[/quote]',
 					'access' => 'q'
 				),
 				'code' => array(
 					'display' => 'code',
-					'start' => '<code>',
-					'end' => '</code>',
+					'start' => '[code]',
+					'end' => '[/code]',
 					'access' => 'c'
 				),
+                'image' => array(
+                    'display' => 'image',
+                    'start' => '[img]',
+                    'end'   => '[/img]',
+                    'access' => 'p'
+                ),
 				'close' => array(
 					'display' => 'Close Tags',
 					'start' => '',

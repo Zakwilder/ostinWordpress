@@ -614,4 +614,15 @@ function __default_local_avatar()
     return get_bloginfo('url') . '/avatars/default.png';
 }
 add_filter( 'pre_option_avatar_default', '__default_local_avatar' );
+
+global $allowedtags;
+$allowedtags_add = array (
+    'img' => array (
+        'src' => array(),
+        'alt' => array(),
+        'title' => array(),
+        'height' => array(),
+        'width' => array()) );
+$allowedtags = array_merge ($allowedtags, $allowedtags_add);
+
 ?>

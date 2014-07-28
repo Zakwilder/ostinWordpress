@@ -1,33 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fbcba16-754a-44df-a5f2-6919e60e54eb" name="Default" comment="" />
+    <list default="true" id="8fbcba16-754a-44df-a5f2-6919e60e54eb" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\README.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\class-comment-image.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\comment-image.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\css\admin.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\css\less\admin.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\css\less\plugin.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\css\plugin.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\js\admin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\js\dev\admin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\js\dev\plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\js\plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\lang\comment-images-de_DE.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\lang\comment-images-de_DE.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\lang\comment-images-es_ES.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\lang\comment-images-es_ES.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\lang\comment-images-nb_no.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\lang\comment-images-nb_no.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\lang\comment-images-pt_BR.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\lang\comment-images-pt_BR.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\lang\comment-images-pt_PT.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\lang\comment-images-pt_PT.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\lang\comment-images-ru_RU.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\lang\comment-images-ru_RU.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\lang\comment-images.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\lang\comment-images.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\themes\hunting_wp_theme_3\images\default.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/comment-form-quicktags/comment-form-quicktags.php" afterPath="$PROJECT_DIR$/wp-content/plugins/comment-form-quicktags/comment-form-quicktags.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="ostin.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/a.dummy" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406126994751" ignored="false" />
+    <ignored path="wp-content/uploads/" />
+    <file path="/a.dummy" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406557501982" ignored="false" />
     <file path="/style.css" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406107918875" ignored="false" />
     <file path="/avatars.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406037147837" ignored="false" />
     <file path="/functions.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406107596410" ignored="false" />
     <file path="/theme-my-login.pot" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406110432644" ignored="false" />
     <file path="/class-theme-my-login-template.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406110691400" ignored="false" />
     <file path="C:/development-Health/workspace/www/.gitignore" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406120962605" ignored="false" />
-    <file path="/.gitignore" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406119600680" ignored="false" />
+    <file path="/.gitignore" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406558051415" ignored="false" />
     <file path="C:/development-Health/workspace/www/public/index.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406119483384" ignored="false" />
     <file path="/index.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406119465823" ignored="false" />
     <file path="/index-local.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406112242200" ignored="false" />
     <file path="C:/development-Health/workspace/www/public/index-local.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406112253628" ignored="false" />
     <file path="C:/development-Health/workspace/www/public/index-test.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406119067422" ignored="false" />
     <file path="C:/development-Health/workspace/www/protected/config/main-local.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406120004744" ignored="false" />
-    <file path="C:/development-Health/workspace/www/protected/config/main.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406119507061" ignored="false" />
+    <file path="C:/development-Health/workspace/www/protected/config/main.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406132488379" ignored="false" />
     <file path="C:/development-Health/workspace/www/protected/config/main-local.php.dist" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406119652867" ignored="false" />
     <file path="/main-local.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406120000177" ignored="false" />
-    <file path="C:/development-Health/workspace/www/protected/components/Controller.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406120927906" ignored="false" />
+    <file path="C:/development-Health/workspace/www/protected/components/Controller.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406132432435" ignored="false" />
     <file path="C:/development-Health/workspace/www/protected/modules/admin/AdminModule.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406120921243" ignored="false" />
     <file path="C:/development-Health/workspace/www/protected/modules/admin/controllers/CategoryController.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406121219971" ignored="false" />
     <file path="/CategoryController.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406121185382" ignored="false" />
     <file path="C:/development-Health/workspace/www/protected/modules/admin/controllers/PlaylistController.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406121218012" ignored="false" />
-    <file path="/comment-form-quicktags.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406127646311" ignored="false" />
+    <file path="/comment-form-quicktags.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406554956055" ignored="false" />
     <file path="/functions.wp-scripts.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406127473373" ignored="false" />
+    <file path="/Dummy.txt" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406557924196" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,66 +81,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="wp-config.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="2" selection-start="1158" selection-end="1158" vertical-scroll-proportion="-15.692307">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ru_RU.po" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/theme-my-login/language/ru_RU.po">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="theme-my-login.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/theme-my-login/theme-my-login.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="23" selection-start="1376" selection-end="1376" vertical-scroll-proportion="-21.576923">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-includes/functions.php">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="2066.5">
+            <state line="288" column="73" selection-start="9879" selection-end="9879" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="comment-form-quicktags.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/comment-form-quicktags/comment-form-quicktags.php">
+      <file leaf-file-name="link-template.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/link-template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="247" column="133" selection-start="5596" selection-end="5596" vertical-scroll-proportion="0.69350964">
+            <state line="1393" column="9" selection-start="38589" selection-end="38589" vertical-scroll-proportion="-0.65384614">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="class.akismet-admin.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="5" selection-start="2293" selection-end="2293" vertical-scroll-proportion="-7.6666665">
-              <folding>
-                <marker date="1405950559814" expanded="false" signature="21220:21233" placeholder="..." />
-              </folding>
+            <state line="1" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="0.019473081">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wp-load.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-load.php">
+      <file leaf-file-name="comments.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/comments.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="38" selection-start="857" selection-end="857" vertical-scroll-proportion="-3.8846154">
+            <state line="157" column="48" selection-start="3986" selection-end="3986" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -119,15 +124,20 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/search.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/single.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/kama-easy-admin/kama_easy_admin.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/add-local-avatar/avatars.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/style.css" />
-        <option value="$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/sidebar2.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/theme-my-login/language/theme-my-login.pot" />
         <option value="$PROJECT_DIR$/wp-content/plugins/theme-my-login/includes/class-theme-my-login-template.php" />
@@ -137,7 +147,10 @@
         <option value="$PROJECT_DIR$/wp-config.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/tinymcecomments/tinyMCEComments.php" />
         <option value="$PROJECT_DIR$/wp-includes/functions.wp-scripts.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/comment-form-quicktags/comment-form-quicktags.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/bbcode.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -148,7 +161,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -174,7 +187,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -203,71 +215,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wp-includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ostin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ostin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ostin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ostin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ostin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ostin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="comment-form-quicktags" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Ignored.Files" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/uploads" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PublishConfig" serverName="test_dfp" serverId="f6b87b29-9b68-403c-8f7d-f8eb69fb08e0">
     <servers>
@@ -294,6 +257,23 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8fbcba16-754a-44df-a5f2-6919e60e54eb" name="Default" comment="" />
@@ -303,15 +283,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32887402" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26040554" sideWeight="0.67112595" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26627535" sideWeight="0.67112595" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -320,6 +299,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32887402" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -386,59 +366,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/theme-my-login/includes/class-theme-my-login-template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="149" column="64" selection-start="4084" selection-end="4098" vertical-scroll-proportion="0.020118343">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="160" selection-start="1360" selection-end="1360" vertical-scroll-proportion="-0.22160149">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-admin/network.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="332" column="35" selection-start="15852" selection-end="15852" vertical-scroll-proportion="-7.1923075">
-          <folding>
-            <marker date="1395206834000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1395206834000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1395206834000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1395206834000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1395206834000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-load.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="38" selection-start="857" selection-end="857" vertical-scroll-proportion="-3.8846154">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="2" selection-start="1158" selection-end="1158" vertical-scroll-proportion="-15.692307">
+        <state line="37" column="2" selection-start="1158" selection-end="1158" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/theme-my-login/language/ru_RU.po">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/l10n.php">
@@ -450,58 +387,81 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/theme-my-login/theme-my-login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="23" selection-start="1376" selection-end="1376" vertical-scroll-proportion="-21.576923">
-          <folding />
-        </state>
+        <state line="33" column="23" selection-start="1376" selection-end="1376" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="2066.5">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="5" selection-start="2293" selection-end="2293" vertical-scroll-proportion="-7.6666665">
-          <folding>
-            <marker date="1405950559814" expanded="false" signature="21220:21233" placeholder="..." />
-          </folding>
+        <state line="47" column="5" selection-start="2293" selection-end="2293" vertical-scroll-proportion="0.020432692">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/functions.wp-scripts.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="208" column="5" selection-start="8889" selection-end="8889" vertical-scroll-proportion="0.6650888">
-          <folding />
-        </state>
+        <state line="208" column="5" selection-start="8889" selection-end="8889" vertical-scroll-proportion="0.6650888" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/comment-form-quicktags/admin.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/functions.wp-styles.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="157" column="9" selection-start="6466" selection-end="6466" vertical-scroll-proportion="0.34319526">
-          <folding />
-        </state>
+        <state line="157" column="9" selection-start="6466" selection-end="6466" vertical-scroll-proportion="0.34319526" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/comment-form-quicktags/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="157" column="48" selection-start="3986" selection-end="3986" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/comment-form-quicktags/comment-form-quicktags.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="247" column="133" selection-start="5596" selection-end="5596" vertical-scroll-proportion="0.69350964">
+        <state line="134" column="37" selection-start="2668" selection-end="2668" vertical-scroll-proportion="-29.076923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/bbcode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="955" column="13" selection-start="33401" selection-end="33401" vertical-scroll-proportion="0.51715976">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="288" column="73" selection-start="9879" selection-end="9879" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/link-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1393" column="9" selection-start="38589" selection-end="38589" vertical-scroll-proportion="-0.65384614">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="0.019473081">
           <folding />
         </state>
       </provider>
