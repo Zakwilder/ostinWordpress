@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fbcba16-754a-44df-a5f2-6919e60e54eb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\README.txt" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\class-comment-image.php" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\comment-image.php" afterPath="" />
@@ -29,9 +28,7 @@
       <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\lang\comment-images.mo" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\plugins\comment-images\lang\comment-images.po" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ostin\wp-content\themes\hunting_wp_theme_3\images\default.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/comment-form-quicktags/comment-form-quicktags.php" afterPath="$PROJECT_DIR$/wp-content/plugins/comment-form-quicktags/comment-form-quicktags.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/hunting_wp_theme_3/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ostin.iws" />
@@ -44,7 +41,7 @@
     <file path="/theme-my-login.pot" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406110432644" ignored="false" />
     <file path="/class-theme-my-login-template.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406110691400" ignored="false" />
     <file path="C:/development-Health/workspace/www/.gitignore" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406120962605" ignored="false" />
-    <file path="/.gitignore" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406558051415" ignored="false" />
+    <file path="/.gitignore" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406558150115" ignored="false" />
     <file path="C:/development-Health/workspace/www/public/index.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406119483384" ignored="false" />
     <file path="/index.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406119465823" ignored="false" />
     <file path="/index-local.php" changelist="8fbcba16-754a-44df-a5f2-6919e60e54eb" time="1406112242200" ignored="false" />
@@ -102,7 +99,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="0.019473081">
+            <state line="2" column="18" selection-start="44" selection-end="44" vertical-scroll-proportion="0.038946163">
               <folding />
             </state>
           </provider>
@@ -461,7 +458,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="0.019473081">
+        <state line="2" column="18" selection-start="44" selection-end="44" vertical-scroll-proportion="0.038946163">
           <folding />
         </state>
       </provider>
